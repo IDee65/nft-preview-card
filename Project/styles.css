@@ -1,0 +1,95 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    background-color: hsl(217, 54%, 11%);
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100vh;
+    padding: 40px;
+}
+
+
+.container{
+    text-align: center;
+    background: hsl(216, 50%, 16%);
+    border-radius: 20px;
+    width: 70%;
+    max-width: 350px;
+    margin: auto;
+}
+
+.im1 {
+    width: 100%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.img-container {
+    padding: 20px;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 7%;
+    font-size: 20px;
+}
+
+.equilibrium{
+    text-align: left;
+    margin-left: 7%;
+}
+
+.con-equ {
+    width: 100%;
+    margin: auto;
+    padding-block: 10px;
+}
+
+.eth-value {
+    color: aqua;
+}
+
+.time {
+    width: 85%;
+    margin-left: 7%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.time img {
+    margin-bottom: -3px;
+}
+
+hr {
+    width: 88%;
+    border: none;
+    border-top: 0.1px solid #555;
+}
+
+.footer {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    width: 80%;
+    padding-block: 8px;
+}
+
+.im3 {
+    width: 15%;
+    border: 3px solid #ccc;
+    border-radius: 50%;
+}
+
+.footer p {
+    font-size: 14px;
+}
+
+.grey-text {
+    color: #bbb;
+}
+
+.m-left {
+    margin-left: -25px;
+}
